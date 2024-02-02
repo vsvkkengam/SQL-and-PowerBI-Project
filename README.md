@@ -2,7 +2,7 @@
 HR_dashboard with MySQL and Power BI
 
 # HR-Dashboard-MySQL-PowerBI
-
+![Employee Data Analysis](https://github.com/vsvkkengam/SQL-and-PowerBI-Project/blob/main/SQL-PBI-HR-Analysis.png)
 ## Data Used
 
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
